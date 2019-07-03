@@ -4,6 +4,9 @@ author: "Matthew Bootsma"
 date: "October 29, 2018"
 output: html_document
 ---
+NOTE: exported tree can allegedly be formatted in "mega" which is a good GUI for tree making, have yet to investigate but for future work I'll be investigating this.
+
+
 This script builds a tree in the package poppr
 it then plots the tree in ape
 still need to figure out how to export the tree object
